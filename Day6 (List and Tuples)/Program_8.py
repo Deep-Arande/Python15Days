@@ -6,7 +6,7 @@
 
 def sort_str(str_list):
 
-    list1 = str_list
+    list1 = str_list.copy()
     sort_list = list()
 
     while (list1):
