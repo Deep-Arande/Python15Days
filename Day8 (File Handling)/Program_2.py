@@ -6,7 +6,8 @@ import csv
 with open("Student_score.csv", "r") as c_file:
 
     read = csv.reader(c_file)
-    data_list = list(read)
+    data_list=list(read) 
+   
 
 
 #loop to find index of the score 

@@ -1,0 +1,22 @@
+{
+    "customers": [
+        {
+            "id": "C001",
+            "name": "Deep",
+            "email": "alice.johnson@example.com",
+            "phone": "+1-555-1234"
+        },
+        {
+            "id": "C002",
+            "name": "Bob Smith",
+            "email": "bob.smith@example.com",
+            "phone": "+1-555-5678"
+        },
+        {
+            "id": "C003",
+            "name": "Charlie Brown",
+            "email": "charlie.brown@example.com",
+            "phone": "+1-555-8765"
+        }
+    ]
+}
